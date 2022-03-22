@@ -1,0 +1,13 @@
+.test{
+    border: 2px solid red;
+}
+img{
+    width: 800px;
+    border: 2px solid red;
+    margin: 0 auto;
+    display: block;
+
+}
+h1{
+    color: red;
+}
